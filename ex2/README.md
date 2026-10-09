@@ -1,4 +1,4 @@
-# Bài 3: Đóng gói ứng dụng Web Backend bằng Single-stage Dockerfile
+# Bài 2: Đóng gói ứng dụng Web Backend bằng Single-stage Dockerfile
 
 ## 1. Mục tiêu
 
